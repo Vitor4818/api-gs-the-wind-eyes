@@ -24,6 +24,6 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas:
 
 ### Passo 1: Clone o repositório
 
-```bash
-git clone https://github.com/seu-usuario/green-companies-ranking-api.git
-cd green-companies-ranking-api
+###Passo 2: Instale as depedencias
+
+###Passo 3: rode o comando (python -m uvicorn main:app --reload)
